@@ -1,0 +1,3 @@
+[submodule "fnb-csv-demoronizer"]
+	path = fnb-csv-demoronizer
+	url = https://github.com/apauley/fnb-csv-demoronizer.git
