@@ -1,0 +1,11 @@
+account Assets:Current:Gawie:Bogart:Cheque
+account expenses:unknown
+account income:unknown
+
+commodity $
+  format  1,000.00 $
+  
+commodity R
+  format  1,000.00 $
+
+alias USD = $
